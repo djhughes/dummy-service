@@ -1,0 +1,9 @@
+{
+  "name": "dummy-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/djhughes/dummy-service.git",
+  "author": "Dave Hughes <dave.hughes@ripjar.com>",
+  "license": "MIT",
+  "private": true
+}
